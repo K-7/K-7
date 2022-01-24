@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kenith website" width="22px" src="https://k2a.in/assets/images/ka07.jpg" />][https://k2a.in/]
+- https://k2a.in/
 
-[<img align="left" alt="Kenith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/kenith-aiyappa-60514953]
+- https://www.linkedin.com/in/kenith-aiyappa-60514953
 
-[<img align="left" alt="Kenith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/k2a.in/]
+- https://www.instagram.com/k2a.in/
 
 <br />
 
