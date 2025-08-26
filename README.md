@@ -1,43 +1,56 @@
 ## 👋 Hi, I’m Kenith Aiyappa  
 
-I’m a **Software Engineer & Consultant** with 13+ years of professional experience, passionate about building scalable systems, solving complex problems, and turning ideas into working software.  
+I’m a **Software Enthusiast & Consultant** with 13+ years of professional experience, currently working remotely.  
 
-### 💡 About Me
-- My career has been shaped by a deep love for computers and programming. I enjoy viewing technology through both a **design lens** and an **engineering lens**, bringing creativity and structure together.  
-- I specialize in **Healthcare Data**, where I’ve worked extensively on **data engineering pipelines** and **machine learning models**.  
-- Beyond data, I’ve built and scaled everything from **monoliths to microservices**, **web/mobile applications**, and the **infrastructure** they run on.  
-- With proven leadership experience, I’ve owned the **entire software lifecycle** — from requirement gathering and architecture design to development, deployment, and client interaction.  
-- 🌱 Known for delivering results quickly, I’ve managed projects end-to-end including **development, deployment, maintenance, and project management**.  
+💻 My love for computers has shaped a unique perspective on programming—I view **technology through the lens of design, and design through the lens of technology**.  
 
-I’m always open to collaborating on impactful projects that could benefit from my expertise.  
+✨ What excites me most is the process of **designing and building solutions from the ground up**, transforming ideas into scalable, real-world systems.  
+
 
 ---
 
-### 🔗 Connect With Me
+### 🚀 What I Do  
+- Lead **remote engineering efforts in the healthcare data space**, focusing on team building, architectural strategy, and engineering best practices.  
+- Drive **end-to-end delivery**: from design and development to deployment, maintenance, and client interactions.  
+- Hands-on expertise in:  
+  - **Healthcare data systems** (including EHR platforms)  
+  - **Data engineering pipelines & ML models**  
+  - **Monolithic and microservice architectures**  
+  - **Web & mobile application development**  
+- Proven track record of executing projects under tight timelines while maintaining **technical excellence**.  
+
+---
+
+### 🌟 Collaboration  
+I’m always open to collaborating on projects that can benefit from my expertise in **data engineering, ML, and scalable application design**.  
+
+---
+
+### 🔗 Connect with Me  
 - 🌐 [Portfolio / Website](https://k2a.in/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kenith-aiyappa-60514953)  
-- 📷 [Instagram](https://www.instagram.com/k2a.in/)  
+- 📸 [Instagram](https://www.instagram.com/k2a.in/)  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools  
 
-### Programming Languages & Frameworks
+### Programming & Frameworks  
 <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
-    <img alt="AI&ML" src="https://img.shields.io/badge/AI%20%26%20ML-blue?style=for-the-badge&logoColor=ffdd54" /> 
-    <img alt="Data Engineering" src="https://img.shields.io/badge/Data%20Engineering-blue?style=for-the-badge&logoColor=ffdd54" /> 
-    <img alt="Android Native" src="https://img.shields.io/badge/Android%20Native-green?style=for-the-badge&logo=android&logoColor=white" />
-    <img alt="iOS Native" src="https://img.shields.io/badge/iOS%20Native-white?style=for-the-badge&logo=apple&logoColor=black" />
-    <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="AI & ML" src="https://img.shields.io/badge/%20-AI%26ML%20-blue?style=for-the-badge&logoColor=ffdd54" />
+  <img alt="Data Engineering" src="https://img.shields.io/badge/-Data%20Engineering-blue?style=for-the-badge&logoColor=ffdd54" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android%20Native-green?style=for-the-badge&logoColor=white" />
+  <img alt="iOS" src="https://img.shields.io/badge/-iOS%20Native-lightgrey?style=for-the-badge&logoColor=black" />
+  <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-### Databases
+### Databases  
 <p>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
 </p>
 
 ---
